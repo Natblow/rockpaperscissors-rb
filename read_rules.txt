@@ -1,0 +1,21 @@
+
+************  Rules of the Rock Paper Scissors game : ************
+
+It is a 2 players game, you versus the computer.
+Each player simultaneously chooses "rock", "paper", and "scissors".
+
+Rock wins over Scissors
+Paper wins over Rock
+Scissors wins over Paper
+
+If you, as a player, wins over the computer choice, you will win 1 point.
+If not, the computer will win 1 point.
+
+In this game, you can have as many rounds as you want. The player with the most
+points will win.
+
+Enjoy the game!
+
+******************************************************************
+
+ 
