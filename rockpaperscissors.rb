@@ -4,4 +4,4 @@ require_relative "rules"
 require_relative "points"
 require_relative "message"
 require_relative "game"
-Game.play
+Game.new.play
